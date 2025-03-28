@@ -1,0 +1,23 @@
+Host Order	sulfur oxidizing	sulfate reducing	iron oxidizing	nitrifying
+Rhodospirillales	1	0	1	0
+Desulfobacterales	0	1	0	0
+Flavobacteriales	0	0	0	0
+Pseudomonadales	0	0	0	0
+Pelagibacterales	0	0	0	0
+Sphingomonadales	0	0	0	0
+Rhodobacterales	1	0	1	0
+Thermodesulfovibrionales	0	0	0	0
+Burkholderiales	1	0	1	0
+Bacteroidales	0	0	0	0
+Enterobacterales	0	0	0	0
+Hyphomicrobiales	1	0	1	0
+Bacillales	1	0	0	0
+Synechococcales	0	0	0	0
+Sphingobacteriales	0	0	0	0
+Thiohalomonadales	0	0	0	0
+Micrococcales	0	0	1	0
+Cytophagales	0	0	0	0
+Terriglobales	0	0	0	0
+Mycobacteriales	0	0	0	0
+Eubacteriales	1	1	1	0
+Campylobacterales	1	1	0	0
