@@ -11,7 +11,7 @@ In this repository you can find all code needed to replicate the figures and ana
 - vegan v2.5
 - grid v4.0
 - gridExtra v2.3
-- require(pracma)
+- pracma v2.4
 - ggpattern v1.0
 - ggpubr v0.6
 - dplyr v1.1
