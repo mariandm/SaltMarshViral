@@ -61,3 +61,5 @@ Scripts in this folder generate the corresponding figure of the same name and st
 
 All manuscript figures, generated from scripts in \~/Scripts folder. 
 
+Zenodo associated link: https://doi.org/10.5281/zenodo.15102500
+
